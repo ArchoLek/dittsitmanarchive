@@ -1,6 +1,6 @@
 
 # dit.tsitman.com template with TailwindCSS
- [--> Link to the template](https://teal-heliotrope-5252de.netlify.app/).
+ [--> Link to the template](https://teal-heliotrope-5252de.netlify.app/)
 
 This project is a simple and responsive course platform template built using **HTML** and **TailwindCSS**. No external stylesheets are used, making development fast and efficient. All styling is done directly through **TailwindCSS** in the HTML files. This repository contains the design components and styles used for dit.tsitman.com. Please note that no exam templates or any other sensitive content is included here. This repo is made public to showcase and share the frontend design elements for educational and reference purposes.
 

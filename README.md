@@ -28,10 +28,9 @@ project-directory/
    ```
 
 2. Update the chapter button link in the HTML to point to the correct file. For example:
-
+GO-to (/chapters/N), n: chapter number 
+Change the filename.pdf to the file you uploaded and the chapter1, to the chapter 
    ```html
-  <!-- GO-to (/chapters/N), n: chapter number -->
-  <!-- Change the filename.pdf to the file you uploaded and the chapter1, to the chapter -->
    <button onclick="window.open('assets/chapter1/filename.pdf')">Introducion to Programming [2023]</button>
    ```
 

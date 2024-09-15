@@ -43,6 +43,18 @@ Change the filename.pdf to the file you uploaded and the chapter1, to the chapte
    <button onclick="window.open('assets/chapter2/newfile.pdf')">Chapter N</button>
    ```
 
+### Changing animated texts
+
+1. Open the JS file where the main file is located (e.g., `main.js`).
+2. Update the `"descriptions"` from there:
+   ```js
+    const texts = [
+        "Fully customizable template.",
+        "Responsive design for all devices.",
+        "Fast and lightweight."
+    ];
+   ```
+   
 ### Customizing Button Colors
 
 You can change the button colors by modifying the TailwindCSS utility classes directly in the HTML file. Available states:
